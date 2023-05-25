@@ -1,0 +1,22 @@
+div {
+  border-style: solid;
+  border-color: dimgray;
+  border-radius: 10px;
+  margin: auto;
+  text-align: center;
+  width: 500px;
+  height: 500px;
+}
+
+h1 {
+  margin-top: 200px;
+}
+
+button {
+  width: 35px;
+  height: 35px;
+  margin-right: 10px;
+  margin-left: 10px;
+  border-radius: 10px;
+  border-color: dimgray;
+}
